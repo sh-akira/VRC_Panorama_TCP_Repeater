@@ -1,0 +1,2 @@
+# VRC_Panorama_TCP_Repeater
+[VRChat]VRC_Panoramaの通信を受けて、ESP8266のTCPサーバーにコマンドを送信します
